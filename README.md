@@ -32,3 +32,7 @@ Yi Lin, Lang Li, Jie Yu, Yuan Hu, Tinghui Zhang, Zhanglin Ye, Awase Khirni Syed,
 Xianglin Guo, Mingqiang Wei, Yiping Chen, Awase Syed, Jonathan Li Shape Generation via Learning an Adaptive Multimodal Prior. 
 
 
+Partial Work Done, could not get datasets to complete the final paper due to lack of support from University of Waterloo. 
+1. Sarah N. Fatholahi 1 , Sabrina L. Li 2 , Awase K. Syed 1 , Zahid A. Butt 3 , Jonathan Li 1 *, SPATIAL MODELING OF COVID-19 INCIDENCE RATES IN THE GREAT TORONTO AREA, CANADA. Submitted to ISPRS 2021. This work is done by Sarah and Reviewed by me.
+2. Awase K. Syed 1 , Sarah N. Fatholahi 1 , Zhuoran Pan 1 , Sabrina L. Li 2 , Zahid A. Butt 3 , Jonathan Li 1 *, HUMAN MOBILITY PATTERNS WITH SOCIAL NETWORK DATA USING HIDDEN MARKOV MODELS TO SIMULATE AND PREDICT TRANSMISSION OF CORONAVIRUS (SARS- CoV-2). Submitted to ISPRS 2021. This work is done by me.
+
