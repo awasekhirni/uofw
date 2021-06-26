@@ -25,7 +25,7 @@ Guo c,d , Awase Khirni Syed*a, Jonathan Li *a, b 3D Indoor Scene Semantic Segmen
 
 2.Qin Ye, Yi Lin, Tinghui Zhang, Jianqing Cai, wuchzhao, Awase Khirni Syed, Jonathan Li, Long-term remote sensing monitoring of land use spatial pattern changes in Chaohu Lake Basin and analysis of its impact on water environment.International Journal of Applied Earth Observations and Geoinformation
 
-3.Airborne LiDAR for Shoreline Mapping: A Review, International Journal of Applied Earth Observation and Geoformation
+3. Junbo (post-doc) Airborne LiDAR for Shoreline Mapping: A Review, International Journal of Applied Earth Observation and Geoformation. 
 
 4.Yi Lin, Lang Li, Jie Yu, Yuan Hu, Tinghui Zhang, Zhanglin Ye, Awase Khirni Syed, Jonathan Li, A Novel Machine learning based impact analysis of NPS pollution score spatio-temporal changes on pollutant emission in water source using time-series landsat images 
 
