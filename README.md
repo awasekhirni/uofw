@@ -20,16 +20,16 @@ Proposals written: I have written 3 proposals. Unfortunately, there is no fundin
 
 Unpublished and underreview work submitted to journals. 
 
-Haojia Lin a , Shangbin Wu a , Yiping Chen *a , Wen Li a , Zhipeng Luo a , Yulan 
+1.Haojia Lin a , Shangbin Wu a , Yiping Chen *a , Wen Li a , Zhipeng Luo a , Yulan 
 Guo c,d , Awase Khirni Syed*a, Jonathan Li *a, b 3D Indoor Scene Semantic Segmentation Using Feature Pyramid Architecture Search.
 
-Qin Ye, Yi Lin, Tinghui Zhang, Jianqing Cai, wuchzhao, Awase Khirni Syed, Jonathan Li, Long-term remote sensing monitoring of land use spatial pattern changes in Chaohu Lake Basin and analysis of its impact on water environment.International Journal of Applied Earth Observations and Geoinformation
+2.Qin Ye, Yi Lin, Tinghui Zhang, Jianqing Cai, wuchzhao, Awase Khirni Syed, Jonathan Li, Long-term remote sensing monitoring of land use spatial pattern changes in Chaohu Lake Basin and analysis of its impact on water environment.International Journal of Applied Earth Observations and Geoinformation
 
-Airborne LiDAR for Shoreline Mapping: A Review, International Journal of Applied Earth Observation and Geoformation
+3.Airborne LiDAR for Shoreline Mapping: A Review, International Journal of Applied Earth Observation and Geoformation
 
-Yi Lin, Lang Li, Jie Yu, Yuan Hu, Tinghui Zhang, Zhanglin Ye, Awase Khirni Syed, Jonathan Li, A Novel Machine learning based impact analysis of NPS pollution score spatio-temporal changes on pollutant emission in water source using time-series landsat images 
+4.Yi Lin, Lang Li, Jie Yu, Yuan Hu, Tinghui Zhang, Zhanglin Ye, Awase Khirni Syed, Jonathan Li, A Novel Machine learning based impact analysis of NPS pollution score spatio-temporal changes on pollutant emission in water source using time-series landsat images 
 
-Xianglin Guo, Mingqiang Wei, Yiping Chen, Awase Syed, Jonathan Li Shape Generation via Learning an Adaptive Multimodal Prior. 
+5.Xianglin Guo, Mingqiang Wei, Yiping Chen, Awase Syed, Jonathan Li Shape Generation via Learning an Adaptive Multimodal Prior. 
 
 
 Partial Work Done, could not get datasets to complete the final paper due to lack of support from University of Waterloo. 
