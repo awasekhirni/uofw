@@ -13,23 +13,30 @@ Published Papers
 2.https://www.sciencedirect.com/science/article/pii/S0303243421000775?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=223522898&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM154458&utm_source=AC_
 
 Proposals written: I have written 3 proposals. Unfortunately, there is no funding. 
-1. Multi-scale dynamic human mobility flow patterns for spatio-temporal epidemiology modelling.
-    modules: 
+1. #Multi-scale dynamic human mobility flow patterns for spatio-temporal epidemiology modelling.
+    
+    #modules: 
       a. stakeholder engagement and system mapping- to foster dialogue and coproduction of the programme of research
       and generate a early warning system of outbreaks and their geographic spread. identify key challenges, desired outcomes and leverage points for potential interventions
+      
       b. creating an integrated data and analytics platform - to synthesize evidence to support real-time mapping 
       identification and prioritization of interventions, and parameterisation of model to simulate the impact of various 
       diseases; curate data resources to inform and facilitate health infrastructure, climatic models that amplify the spread of disease. 
+      
       c. envioning and prioritising interventions - policy and actions - to build, develop, implement and monitor health infrastructure and spatio-temporal behaviour 
       of human and animals that amplify or cease the spread of infectious disease. to define, evaluate data driven policy insights based on 
       various spatio-temporal, spatio-economical and environmental models.
+      
       d. evaluation- to evaluate the impact of public policy interventions, delivered to achieve rapid remedial course corrections;
       to monitor and change health care system. to model and predict spatio-temporal human behaviours. 
+      
       e. modelling - to co-develop integrated health care monitoring sytem, population health, economic and environmental models to characterize 
       various threats in advance. to model interactions with populations and environments and to simulate long-term and short-term projections,
       devise sustainbale interventions through local and national policy or business practices. 
+      
       f. synthesis and impact - to synthesize findings across modules, draw conclusions and report transparently to wider public.
       to identify implication for research, policy and practice. Investigate the efficacy of various multi-channel communications to share theoretical and methodological innovations, and ensure evidence generated is used and draw metrics driven policy guidelines.
+      
 3. Quantification and forecasting transport sector emissions and their carbon dynamics across Canada using MODIS Terra datasets.
 4. Disturbance Monitoring Platform to Enhance Forest Inventory using historical LiDAR datasets.
 
