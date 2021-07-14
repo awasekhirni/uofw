@@ -1,4 +1,5 @@
 # Record of the work @University of Waterloo (Volunteer without pay)
+
 Awase Khirni Syed awase008@gmail.com 
 
 
@@ -8,9 +9,11 @@ Please find copy of my work, research publications and proposals for the followi
 Data collected for spatio-temporal modelling project https://github.com/awasekhirni/diseasemodels
 https://github.com/awasekhirni/uw-researchwork-auraproject
 https://uwaterloo.ca/geospatial-sensing/people-profiles/category/45
-Published Papers
+
+#Published Papers
 1.https://authors.elsevier.com/sd/article/S0303-2434(21)00077-5
 2.https://www.sciencedirect.com/science/article/pii/S0303243421000775?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=223522898&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM154458&utm_source=AC_
+3. https://www.sciencedirect.com/science/article/pii/S0303243421001203
 
 Proposals written: I have written 3 proposals. Unfortunately, there is no funding. 
 1. #Multi-scale dynamic human mobility flow patterns for spatio-temporal epidemiology modelling.
