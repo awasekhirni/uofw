@@ -57,6 +57,8 @@ Guo c,d , Awase Khirni Syed*a, Jonathan Li *a, b 3D Indoor Scene Semantic Segmen
 
 5.Xianglin Guo, Mingqiang Wei, Yiping Chen, Awase Syed, Jonathan Li Shape Generation via Learning an Adaptive Multimodal Prior. 
 
+6. Naftaly Wambugu a , Zhenlong Xiao a , Yiping Chen a *, Xiaoxue Liu a , Cheng Wang a , Jonathan Li a, Handling data insufficiency in semantic segmentation of hyperspectral images using deep neural networks: A review - ISPRS
+
 
 Partial Work Done, could not get datasets to complete the final paper due to lack of support from University of Waterloo. 
 1. Sarah N. Fatholahi 1 , Sabrina L. Li 2 , Awase K. Syed 1 , Zahid A. Butt 3 , Jonathan Li 1 *, SPATIAL MODELING OF COVID-19 INCIDENCE RATES IN THE GREAT TORONTO AREA, CANADA. Submitted to ISPRS 2021. This work is done by Sarah and Reviewed by me.
